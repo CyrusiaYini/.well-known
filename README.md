@@ -1,1 +1,1 @@
-# .well-known-discord
+# dh=d4bb52de1c534ea7127bb489a99be215d73f438b
